@@ -6,5 +6,5 @@
 * In the full data set there are 100000 ratings by 943 users on 1682 movies, where each user has rated at least 20 movies.
 
 For a better view of the notebooks:
-* Simple collaborative filtering from scratch: https://nbviewer.jupyter.org/github/MiaDor12/Recommender_System-MovieLens_100K-Collaborative_Filtering_vs_Matrix_Factorization/blob/master/Recommender_System-MovieLens_100K-Collaborative_Filtering_from_Scratch.ipynb
+* Simple collaborative filtering from scratch: https://nbviewer.jupyter.org/github/MiaDor12/Recommender_System-MovieLens_100K-Collaborative_Filtering_vs_Matrix_Factorization/blob/master/Collaborative_Filtering_from_Scratch.ipynb
 * Matrix factorization:

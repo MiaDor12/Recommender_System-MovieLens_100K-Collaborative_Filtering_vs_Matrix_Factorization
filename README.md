@@ -7,4 +7,4 @@
 
 For a better view of the notebooks:
 * Simple collaborative filtering from scratch: https://nbviewer.jupyter.org/github/MiaDor12/Recommender_System-MovieLens_100K-Collaborative_Filtering_vs_Matrix_Factorization/blob/master/Recommender_System-MovieLens_100K-Collaborative_Filtering_from_Scratch.ipynb
-* Matrix Factorization:
+* Matrix factorization:

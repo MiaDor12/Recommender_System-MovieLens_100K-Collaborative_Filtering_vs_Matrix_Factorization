@@ -4,7 +4,9 @@
 * Matrix factorization is another algorithm for recommendation. This algorithm uses embedding to create two matrices, of the users and movies, such that their dot product gives the desired rating. 
 * The data I used for this project is the MovieLens 100k, from GroupLens: https://grouplens.org/datasets/movielens/100k/
 * In the full data set there are 100000 ratings by 943 users on 1682 movies, where each user has rated at least 20 movies.
+* Using simple collborative filtering, I got a mean squared error score on the test data set of 1.04.
+* Using matrix factorization, I got a mean squared error score on the test data set of 0.91 -> 12.5% improvement.
 
 For a better view of the notebooks:
 * Simple collaborative filtering from scratch: https://nbviewer.jupyter.org/github/MiaDor12/Recommender_System-MovieLens_100K-Collaborative_Filtering_vs_Matrix_Factorization/blob/master/Collaborative_Filtering_from_Scratch.ipynb
-* Matrix factorization:
+* Matrix factorization: https://nbviewer.jupyter.org/github/MiaDor12/Recommender_System-MovieLens_100K-Collaborative_Filtering_vs_Matrix_Factorization/blob/master/Matrix_Factorization_with_Keras.ipynb
